@@ -6,6 +6,6 @@ public class test {
 		System.out.print("hello tuilatri");
 		System.out.print("\n");
 		System.out.print("welcome to GitHub");
-		System.out.print("\n...");
+		System.out.print("00000000000");
 	}
 }
